@@ -758,7 +758,7 @@
 | XiaoMi Air 13.3     | [链接](https://github.com/teojs/Xiaomi-Air-i7-8550u-EFI)     |                                                              | i7-8550U                                                     |
 | 红米redmibook mx250 |           | i5-8265u、i7-8650u                                           |                                                              |
 | 红米G               | [链接](https://github.com/Xhichn/Hackbook_Redmi_G)           |                                                              |                                                              |
-| Redmibook14增强版   | [链接](https://github.com/haoey/-)                           |                                                              |                                                              |
+| Redmibook14增强版   | [链接](https://github.com/haoey/-)                            |            [链接] https://cloud.189.cn/t/q2YFzuZJ7Nnm                                                 |                                                              |
 | Xiaomi Redmibook 16 | [链接](https://github.com/elishevatavori/Xiaomi-Redmibook-16-Hackintosh) |                                                              | i7-1065G7                                                    |
 
 
